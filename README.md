@@ -163,25 +163,24 @@ The architecture supports communication between the user interface, application 
 
 ---
 
-12. GitHub Copilot
+## 12. GitHub Copilot
+
 GitHub Copilot was used to generate a simple Python function related to telemedicine slot booking.
-Example functionality:
-def book_consultation(patient_name, doctor_name, consultation_slot):
-    return (
-        f"Booking confirmed for {patient_name} with Dr. {doctor_name} "
-        f"at {consultation_slot}."
-    )
-13. Software Testing Tools
+
+The generated code demonstrates AI-assisted code generation for the project.
+
+## 13. Software Testing Tools
+
 Software testing activities are carried out using the software testing repository provided for the course.
+
 The testing process includes:
+
 - Understanding the given application.
 - Executing the provided 4 test cases.
 - Identifying the reported bug.
 - Using vibe coding / AI assistance to fix the bug.
 - Applying the required patch.
 - Retesting the application after the fix.
-- Documenting the testing and bug-fixing process.
-- Sharing the testing repository link.
 - Documenting the testing and bug-fixing process.
 - Sharing the testing repository link.
 
