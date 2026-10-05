@@ -2,7 +2,7 @@
 
 **Project:** Telemedicine Slot Booking & Prescription Portal  
 **Problem Statement:** #11 — Healthcare & Telemedicine
-SRN:PES1UG24CS439
+**SRN:PES1UG24CS439**
 
 ## 1. Project Overview
 
@@ -175,3 +175,19 @@ def book_consultation(patient_name, doctor_name, consultation_slot):
         f"Booking confirmed for {patient_name} with Dr. {doctor_name} "
         f"at {consultation_slot}."
     )
+## 10. Software Testing Tools
+
+Software testing activities are carried out using the software testing repository provided for the course.
+
+The testing process includes:
+
+- Understanding the given application.
+- Executing the provided 4 test cases.
+- Identifying the reported bug.
+- Using vibe coding / AI assistance to fix the bug.
+- Applying the required patch.
+- Retesting the application after the fix.
+- Documenting the testing and bug-fixing process.
+- Sharing the testing repository link.
+
+The testing repository and related test results will be added to this section as instructed by the course faculty.
